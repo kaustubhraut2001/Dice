@@ -60,7 +60,7 @@ const App = () => {
     <View style={styles.conatiner}>
       <Dice imageUrl={diceimage} />
       <Pressable style={styles.btn} onPress={rollthedice}>
-        <Text>Rool the Dice!!!</Text></Pressable>
+        <Text>Roll the Dice!!!</Text></Pressable>
       
     </View>
   )
